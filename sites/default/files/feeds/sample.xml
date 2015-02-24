@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Sample for demonstration of processing XML feeds with feeds module -->
+<Orders>
+
+<Order>
+<CustomerID>10</CustomerID>
+<Order_Number>1</Order_Number>
+<Order_Total>100</Order_Total>
+<Currency>£</Currency>
+</Order>
+
+<Order>
+<CustomerID>11</CustomerID>
+<Order_Number>2</Order_Number>
+<Order_Total>40</Order_Total>
+<Currency>$</Currency>
+</Order>
+
+<Order>
+<CustomerID>12</CustomerID>
+<Order_Number>3</Order_Number>
+<Order_Total>50</Order_Total>
+<Currency>$</Currency>
+</Order>
+
+</Orders>
